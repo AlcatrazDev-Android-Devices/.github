@@ -16,4 +16,5 @@
 - cas - Xiaomi Mi 10 Ultra
 - maple(-dsds) - Sony Xperia XZ Premium
 - mocha - Xiaomi Mi Pad
+- pateklte - Samsung SM-W2015
 - taimen - Google Pixel 2XL
