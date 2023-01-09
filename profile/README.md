@@ -14,6 +14,7 @@
 - aura - Razer Phone 2
 - cancro - Xiaomi Mi3/4LTE
 - cas - Xiaomi Mi 10 Ultra
+- clover - Xiaomi Mi Pad 4 (Plus)
 - maple(-dsds) - Sony Xperia XZ Premium
 - mocha - Xiaomi Mi Pad
 - pateklte - Samsung SM-W2015
