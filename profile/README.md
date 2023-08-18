@@ -19,4 +19,4 @@
 - mocha - Xiaomi Mi Pad
 - pateklte - Samsung SM-W2015
 - taimen - Google Pixel 2XL
-- veyronlte - Samsung SM-W2017
+- veyronltectc - Samsung SM-W2017
