@@ -20,3 +20,4 @@
 - pateklte - Samsung SM-W2015
 - taimen - Google Pixel 2XL
 - veyronltectc - Samsung SM-W2017
+- rlk8321_tb_rc_m - Orasaifu IMORA
