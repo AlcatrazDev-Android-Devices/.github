@@ -12,9 +12,9 @@
 # AlcatrazDev AOSP Devices repositories
 - alphalm - LG G8
 - aura - Razer Phone 2
-- cancro - Xiaomi Mi3/4LTE
+- cancro - Xiaomi Mi 3 / 4 LTE
 - cas - Xiaomi Mi 10 Ultra
-- clover - Xiaomi Mi Pad 4 (Plus)
+- clover - Xiaomi Mi Pad 4 / 4 Plus
 - maple(-dsds) - Sony Xperia XZ Premium
 - mocha - Xiaomi Mi Pad
 - pateklte - Samsung SM-W2015
