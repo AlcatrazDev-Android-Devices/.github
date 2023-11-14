@@ -21,3 +21,4 @@
 - rlk8321_tb_rc_m - Orasaifu IMORA
 - taimen - Google Pixel 2XL
 - veyronltectc - Samsung SM-W2017
+- virgo - Xiaomi Mi Note LTE
