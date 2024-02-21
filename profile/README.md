@@ -22,3 +22,4 @@
 - taimen - Google Pixel 2XL
 - veyronltectc - Samsung SM-W2017
 - virgo - Xiaomi Mi Note LTE
+- wisdom - Samsung SM-P205
