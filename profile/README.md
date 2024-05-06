@@ -20,6 +20,7 @@
 - pateklte - Samsung SM-W2015
 - rlk8321_tb_rc_m - Orasaifu IMORA
 - taimen - Google Pixel 2XL
+- timelm - LG V60 ThinQ
 - veyronltectc - Samsung SM-W2017
 - virgo - Xiaomi Mi Note LTE
 - wisdom - Samsung SM-P205
