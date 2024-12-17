@@ -15,12 +15,14 @@
 - cancro - Xiaomi Mi 3 / 4 LTE
 - cas - Xiaomi Mi 10 Ultra
 - clover - Xiaomi Mi Pad 4 / 4 Plus
+- enuma - Xiaomi Mi Pad 5 Pro 5G
 - maple(-dsds) - Sony Xperia XZ Premium
 - mocha - Xiaomi Mi Pad
 - pateklte - Samsung SM-W2015
 - rlk8321_tb_rc_m - Orasaifu IMORA
 - taimen - Google Pixel 2XL
 - timelm - LG V60 ThinQ
+- thyme - Xiaomi Mi 10S
 - veyronltectc - Samsung SM-W2017
 - virgo - Xiaomi Mi Note LTE
 - wisdom - Samsung SM-P205
