@@ -34,3 +34,4 @@
 - virgo - Xiaomi Mi Note LTE
 - wayne - Xiaomi Mi 6X
 - wisdom - Samsung SM-P205
+- YT-X703F - Lenovo YOGA Tab 3 Plus
