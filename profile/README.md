@@ -24,6 +24,7 @@
 - marlin - Google Pixel XL
 - mocha - Xiaomi Mi Pad
 - pateklte - Samsung SM-W2015
+- pdx203 - Sony Xperia 1 II
 - rlk8321_tb_rc_m - Orasaifu IMORA
 - sagit - Xiaomi Mi 6
 - taimen - Google Pixel 2XL
