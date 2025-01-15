@@ -16,13 +16,17 @@
 - cas - Xiaomi Mi 10 Ultra
 - clover - Xiaomi Mi Pad 4 / 4 Plus
 - enuma - Xiaomi Mi Pad 5 Pro 5G
+- gts7xlwifi - Samsung SM-T870
+- lmi - Redmi K30 Pro Zoom Edition
 - maple(-dsds) - Sony Xperia XZ Premium
 - mocha - Xiaomi Mi Pad
 - pateklte - Samsung SM-W2015
 - rlk8321_tb_rc_m - Orasaifu IMORA
+- sagit - Xiaomi Mi 6
 - taimen - Google Pixel 2XL
 - timelm - LG V60 ThinQ
 - thyme - Xiaomi Mi 10S
 - veyronltectc - Samsung SM-W2017
 - virgo - Xiaomi Mi Note LTE
+- wayne - Xiaomi Mi 6X
 - wisdom - Samsung SM-P205
