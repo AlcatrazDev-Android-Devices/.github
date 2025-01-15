@@ -9,7 +9,7 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
-# AlcatrazDev AOSP Devices repositories
+# AlcatrazDev AOSP Devices Repositories
 - alphalm - LG G8
 - aura - Razer Phone 2
 - blueline - Google Pixel 3
@@ -27,7 +27,7 @@
 - pdx203 - Sony Xperia 1 II
 - rlk8321_tb_rc_m - Orasaifu IMORA
 - sagit - Xiaomi Mi 6
-- taimen - Google Pixel 2XL
+- taimen - Google Pixel 2 XL
 - timelm - LG V60 ThinQ
 - thyme - Xiaomi Mi 10S
 - veyronltectc - Samsung SM-W2017
