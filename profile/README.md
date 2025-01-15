@@ -12,13 +12,16 @@
 # AlcatrazDev AOSP Devices repositories
 - alphalm - LG G8
 - aura - Razer Phone 2
+- blueline - Google Pixel 3
 - cancro - Xiaomi Mi 3 / 4 LTE
 - cas - Xiaomi Mi 10 Ultra
 - clover - Xiaomi Mi Pad 4 / 4 Plus
+- coral - Google Pixel 4 XL
 - enuma - Xiaomi Mi Pad 5 Pro 5G
 - gts7xlwifi - Samsung SM-T870
 - lmi - Redmi K30 Pro Zoom Edition
 - maple(-dsds) - Sony Xperia XZ Premium
+- marlin - Google Pixel XL
 - mocha - Xiaomi Mi Pad
 - pateklte - Samsung SM-W2015
 - rlk8321_tb_rc_m - Orasaifu IMORA
