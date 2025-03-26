@@ -19,6 +19,7 @@
 - coral - Google Pixel 4 XL
 - enuma - Xiaomi Mi Pad 5 Pro 5G
 - gts7xlwifi - Samsung SM-T870
+- lilac - Sony Xperia XZ1 Compact
 - lmi - Redmi K30 Pro Zoom Edition
 - maple(-dsds) - Sony Xperia XZ Premium
 - marlin - Google Pixel XL
